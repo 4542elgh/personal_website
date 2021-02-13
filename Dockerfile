@@ -15,5 +15,3 @@ COPY ./html ./html
 EXPOSE 80
 
 CMD ["node","app.js"]
-
-
